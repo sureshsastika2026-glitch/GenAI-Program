@@ -1,0 +1,111 @@
+{
+  "prompt_title": "Traditional Tamil Hindu Temple Wedding",
+  "image_type": "Ultra-realistic cinematic wedding photography",
+  "location": {
+    "country": "India",
+    "state": "Tamil Nadu",
+    "city": "Madurai",
+    "venue": "Ancient South Indian Hindu temple mandapam",
+    "architecture": "Traditional Dravidian temple architecture with carved granite pillars, intricate sculptures, and traditional stone flooring"
+  },
+  "main_characters": {
+    "bride": {
+      "identity": "Traditional Tamil bride",
+      "appearance": "Graceful young South Indian woman with natural makeup and a joyful expression",
+      "clothing": "Rich red Kanchipuram silk saree with intricate gold zari border",
+      "jewellery": [
+        "Traditional gold temple jewellery",
+        "Long gold haram necklace",
+        "Manga malai",
+        "Jhumka earrings",
+        "Maang tikka",
+        "Gold bangles",
+        "Oddiyanam waist belt",
+        "Traditional gold nose pin"
+      ],
+      "hairstyle": "Long black hair styled in a traditional braid decorated with fresh jasmine flowers and gold hair accessories"
+    },
+    "groom": {
+      "identity": "Traditional Tamil groom",
+      "appearance": "Handsome South Indian man with a natural, happy expression",
+      "clothing": "Cream-coloured silk veshti with a rich gold border and matching silk angavastram",
+      "accessories": [
+        "Traditional gold chain",
+        "Traditional forehead namam or vibhuti",
+        "Simple traditional watch"
+      ]
+    }
+  },
+  "wedding_ceremony": {
+    "occasion": "Tamil Hindu Muhurtham ceremony",
+    "main_action": "The groom is tying the sacred golden thali around the bride's neck while the bride's family and groom's family bless the couple",
+    "ritual_details": [
+      "Sacred homam fire burning in front of the couple",
+      "Traditional Hindu priest performing wedding rituals",
+      "Family members showering akshadai rice and flower petals",
+      "Bride and groom seated beneath a decorated wedding mandapam",
+      "Traditional Nadaswaram and Thavil musicians performing"
+    ]
+  },
+  "environment": {
+    "background": "Beautiful ancient Tamil temple interior inspired by Madurai temple architecture",
+    "decorations": [
+      "Fresh jasmine and marigold flower garlands",
+      "Traditional brass kuthu vilakku lamps",
+      "Banana trees at the mandapam entrance",
+      "Mango leaf torans",
+      "Colourful traditional kolam designs",
+      "Red and gold silk wedding decorations"
+    ],
+    "atmosphere": "Sacred, festive, elegant, and culturally authentic Tamil wedding environment"
+  },
+  "supporting_characters": {
+    "family": "Tamil relatives wearing traditional Kanchipuram silk sarees, silk veshtis, and traditional gold jewellery",
+    "priest": "Traditional Hindu priest wearing a white dhoti and performing sacred wedding rituals",
+    "musicians": "Traditional South Indian Nadaswaram and Thavil performers"
+  },
+  "photography": {
+    "style": "Premium Indian wedding photography",
+    "camera_angle": "Eye-level cinematic wide shot showing the bride, groom, wedding mandapam, and temple surroundings",
+    "lighting": "Warm golden temple lighting with natural soft highlights",
+    "depth_of_field": "Soft cinematic background blur while keeping the bride and groom sharply focused",
+    "resolution": "8K",
+    "quality": "Photorealistic, highly detailed, natural skin texture, realistic human anatomy, intricate silk fabric and jewellery details"
+  },
+  "colour_palette": [
+    "Traditional wedding red",
+    "Gold",
+    "Cream",
+    "Jasmine white",
+    "Marigold yellow",
+    "Warm temple brown"
+  ],
+  "mood": [
+    "Sacred",
+    "Joyful",
+    "Romantic",
+    "Emotional",
+    "Traditional",
+    "Timeless"
+  ],
+  "negative_prompt": [
+    "North Indian wedding outfits",
+    "Lehenga",
+    "Sherwani",
+    "Western wedding dress",
+    "Modern banquet hall",
+    "Fantasy architecture",
+    "Cartoon style",
+    "Artificial facial expressions",
+    "Distorted hands",
+    "Extra fingers",
+    "Incorrect jewellery",
+    "Unrealistic body proportions",
+    "Blurry faces",
+    "Text",
+    "Logo",
+    "Watermark"
+  ],
+  "aspect_ratio": "16:9",
+  "rendering_style": "Ultra-realistic cinematic photograph"
+}
