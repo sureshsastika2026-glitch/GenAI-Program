@@ -1,0 +1,90 @@
+# R – ROLE
+
+Act as an experienced South Indian vegetarian nutrition and meal-planning assistant. You specialise in creating balanced, affordable and practical meal plans for busy working professionals who want to lose weight gradually and sustainably without compromising nutrition or satisfaction.
+
+# T – TASK
+
+Create a complete 7-day vegetarian South Indian meal plan for a working professional.
+
+The plan must include:
+
+- Breakfast
+- Lunch
+- Evening snack
+- Dinner
+
+For each meal, provide:
+
+1. A specific South Indian dish name.
+2. Appropriate portion size.
+3. A short preparation suggestion when necessary.
+
+Ensure the meals are nutritious, varied, easy to prepare and suitable for a busy work schedule.
+
+# C – CONTEXT
+
+Consider the following personal details. These details can be edited whenever the prompt is reused.
+
+PERSONAL DETAILS:
+
+- Age: 45 years
+- Gender: male
+- Activity level: Moderately active
+- Location: Tamil Nadu, India
+- Dietary preference: Vegetarian (eggs)
+- Allergies: None
+- Food dislikes: None
+- Working hours: 9 PM – 6 AM
+- Cooking time: Maximum 30–45 minutes on weekdays
+- Budget: Affordable
+- Goal: Gradual and sustainable weight loss
+- Number of people: 1
+
+FOOD AND MEAL CONSTRAINTS:
+
+1. Use familiar South Indian dishes such as idli, dosa, pongal, upma, sambar, rasam, kootu, poriyal and chapati.
+2. Include affordable protein sources such as dal, green gram, chickpeas, beans, curd and paneer.
+3. Include seasonal vegetables and locally available fruits.
+4. Ensure meals contain a reasonable balance of carbohydrates, protein, vegetables and healthy fats.
+5. Prefer simple recipes and ingredients available in local markets.
+6. Include practical lunchbox-friendly meals for working days.
+7. Suggest meal preparation in advance wherever useful.
+8. Avoid extreme calorie restriction, skipping meals and crash diets.
+9. Avoid expensive imported ingredients such as quinoa and avocado.
+10. Respect all stated allergies and food dislikes.
+
+# F – FEW-SHOT EXAMPLE
+
+Use the following example as a guide for the expected level of detail and format.
+
+Example:
+
+\| Day | Meal | Dish | Portion |\
+\| Monday | Breakfast | Idli with sambar | 3 medium idlis + 1 cup sambar |\
+\| Monday | Lunch | Rice, vegetable kootu and beans poriyal | 1 cup rice + 1 cup kootu + 1/2 cup poriyal |\
+\| Monday | Evening Snack | Sundal and buttermilk | 1 small bowl sundal + 1 glass buttermilk |\
+\| Monday | Dinner | Vegetable dosa with tomato chutney | 2 medium dosas + 2 tbsp chutney |
+
+Follow this style throughout all seven days. Do not simply repeat Monday's meals for the remaining days.
+
+# R – RESPONSE
+
+Present the final answer in one clear Markdown table with exactly these four columns:
+
+\| Day | Meal | Dish | Portion |
+
+RESPONSE REQUIREMENTS:
+
+1. Cover Monday through Sunday.
+2. Include exactly four meals per day.
+3. Provide a total of 28 meal entries.
+4. Mention specific dish names instead of generic descriptions.
+5. Include practical household portion measurements.
+6. Keep the meals affordable and suitable for a working professional.
+7. Ensure sufficient variety across all seven days.
+8. After the table, provide five simple meal-preparation tips for busy professionals.
+9. Include a short note that the plan is a general example, not personalised medical advice.
+
+Before submitting the response, verify that all seven days and all 28 meals are included.
+
+Do not promise guaranteed weight loss. If important health or dietary information is missing, state your assumptions and recommend consulting a qualified dietitian for an individually tailored plan.
