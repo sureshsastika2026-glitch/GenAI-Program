@@ -1,0 +1,113 @@
+{
+  "title": "Traditional Tamil Hindu Wedding in a South Indian Temple",
+  "theme": "Authentic Traditional South Indian Tamil Wedding",
+  "cultural_identity": "Tamil Hindu wedding traditions",
+  "location": {
+    "country": "India",
+    "state": "Tamil Nadu",
+    "city": "Madurai",
+    "venue": "Ancient South Indian Hindu temple",
+    "setting": "Traditional temple mandapam with magnificent stone pillars, carved sculptures, temple bells and a beautifully decorated wedding stage",
+    "atmosphere": "Spiritual, festive, divine and culturally authentic"
+  },
+  "characters": {
+    "bride": {
+      "age": "25-28",
+      "appearance": "Elegant South Indian Tamil bride with traditional features",
+      "clothing": "Rich red and gold Kanchipuram silk saree",
+      "jewellery": [
+        "Traditional temple jewellery",
+        "Gold jhumka earrings",
+        "Manga malai necklace",
+        "Oddiyanam waist belt",
+        "Vanki armlet",
+        "Gold bangles",
+        "Traditional nethi chutti"
+      ],
+      "hairstyle": "Long braided hair decorated with jasmine flowers and traditional gold hair accessories",
+      "makeup": "Natural traditional bridal makeup with a red bindi"
+    },
+    "groom": {
+      "age": "28-32",
+      "appearance": "Handsome South Indian Tamil groom",
+      "clothing": "Traditional cream silk veshti with gold zari border and matching silk angavastram",
+      "accessories": [
+        "Traditional gold chain",
+        "Watch",
+        "Traditional sandalwood tilak"
+      ],
+      "hairstyle": "Neatly groomed traditional hairstyle"
+    },
+    "supporting_characters": [
+      "Bride's parents in traditional Tamil silk attire",
+      "Groom's parents in traditional South Indian clothing",
+      "Priest performing wedding rituals",
+      "Family members and relatives wearing colourful silk sarees and veshtis"
+    ]
+  },
+  "wedding_ceremony": {
+    "ritual": "Traditional Tamil Hindu Muhurtham ceremony",
+    "main_moment": "The groom tying the sacred golden Thali around the bride's neck",
+    "details": [
+      "Sacred wedding fire (Homam)",
+      "Nadaswaram and Thavil musicians",
+      "Priest chanting traditional Vedic mantras",
+      "Family members showering flower petals",
+      "Traditional wedding garlands",
+      "Blessings from elders"
+    ]
+  },
+  "decorations": {
+    "flowers": [
+      "Fresh jasmine",
+      "Red roses",
+      "Yellow marigolds",
+      "Traditional flower garlands"
+    ],
+    "elements": [
+      "Brass kuthu vilakku lamps",
+      "Banana tree decorations",
+      "Mango leaf thoranam",
+      "Traditional kolam designs",
+      "Brass wedding vessels"
+    ],
+    "colour_palette": [
+      "Gold",
+      "Deep red",
+      "Yellow",
+      "Cream",
+      "Green"
+    ]
+  },
+  "photography": {
+    "style": "Ultra-realistic cinematic wedding photography",
+    "camera_angle": "Eye-level medium-wide shot",
+    "lighting": "Warm natural morning sunlight mixed with traditional brass lamp lighting",
+    "composition": "Bride and groom as the central focus, with temple architecture and wedding rituals visible in the background",
+    "quality": "Highly detailed, realistic skin textures, rich silk fabric details, authentic jewellery and natural expressions",
+    "resolution": "4K",
+    "aspect_ratio": "16:9"
+  },
+  "mood": [
+    "Traditional",
+    "Romantic",
+    "Spiritual",
+    "Joyful",
+    "Elegant",
+    "Culturally authentic"
+  ],
+  "negative_prompt": [
+    "North Indian wedding clothing",
+    "Lehenga",
+    "Western wedding dress",
+    "Modern banquet hall",
+    "Artificial-looking faces",
+    "Cartoon style",
+    "Unnatural body proportions",
+    "Incorrect traditional jewellery",
+    "Distorted hands",
+    "Extra fingers",
+    "Blurry faces",
+    "Text and watermarks"
+  ]
+}
